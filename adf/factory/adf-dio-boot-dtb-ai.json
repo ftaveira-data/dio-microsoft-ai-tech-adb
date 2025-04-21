@@ -1,0 +1,9 @@
+{
+	"name": "adf-dio-boot-dtb-ai",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "2bc7889d-54e0-4780-bcf3-2d0e166d57d2",
+		"tenantId": "c9a688a8-d776-4977-929c-ebc37422ca21"
+	}
+}
